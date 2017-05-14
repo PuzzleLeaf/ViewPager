@@ -15,7 +15,8 @@ import java.util.ArrayList;
 /**
  * Created by cmtyx on 2017-01-21.
  */
-//주석
+//테스트2
+//테스트3
 public class Item extends PagerAdapter {
     Context context;
     ArrayList<String> text;
